@@ -8,4 +8,4 @@ Demonstrates the use of `NSSharingServicePicker`, and how you can add your own c
 [All Code](ViewController.swift)
 
 
-*Medium Article Coming Soon*
+[*Medium Article*](https://medium.com/@hawkfalcon/creating-a-custom-macos-sharing-service-in-swift-e7e0e46cbdd3)
